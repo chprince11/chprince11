@@ -1,3 +1,4 @@
+![logo](https://github.com/chprince11/chprince11/blob/main/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
