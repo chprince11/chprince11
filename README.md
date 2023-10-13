@@ -1,4 +1,4 @@
-![logo](https://github.com/chprince11/chprince11/blob/main/pic1.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
