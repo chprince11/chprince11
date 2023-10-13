@@ -1,4 +1,4 @@
-![logo](https://github.com/chprince11/chprince11/blob/main/chatGPT-GitHub-banner.jpg)
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcafedev.vn%2Ftin-tong-sentry-hien-ho-tro-google-web-vitals-google-co-ke-hoach-dong-cua-console-android-things-va-github-xoa-cac-cookie-khong-can-thiet%2F&psig=AOvVaw1uafNZOlKnc3AjQ8LNjKOl&ust=1697319605929000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPidwKb-84EDFQAAAAAdAAAAABBF)
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">A passionate Full Stack developer from Canada</h3>
 
