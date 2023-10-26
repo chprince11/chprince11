@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
-- 🌱 I’m currently learning **Spring framework, Cyber Security, System Analyst, some of the testing software, and algie methodologies**
+- 🌱 I’m currently learning **Python, Spring framework, Cyber Security, System Analyst, some of the testing software such as Selenium, and algie methodologies.**
 
 - 📫 How to reach me **chprince@sheridancollege.ca**
 
