@@ -1,6 +1,6 @@
 ![logo](https://github.com/chprince11/chprince11/blob/main/chatGPT-GitHub-banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
-<h3 align="center">A passionate Software developer from Canada</h3>
+<h3 align="center">IT Student Passionate for Software Development</h3>
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
