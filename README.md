@@ -23,3 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&locale=en" alt="chprince11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&" alt="chprince11" /></p>
+
+[![Play Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](index.html)
+
