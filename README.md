@@ -1,6 +1,10 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body style="font-family: 'Poppins', sans-serif;">
 ![logo](https://github.com/chprince11/chprince11/blob/main/chatGPT-GitHub-banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
-<h3 align="center">IT Student Passionate for Software and Web Development</h3>
+<h3 align="center">IT Student Professional Passionate for Software Engineer/ Full Stack Developer 👨‍💻</h3>
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
