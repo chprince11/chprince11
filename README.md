@@ -15,7 +15,7 @@
   
 - 💪 Hands on experience with **HTML | CSS | Scss | JavaScript | DOM | JQuery | Bootstrap( Fundamentals) | Linux/Unix | NoSql/ SQL | GitHub | VScode | Figma | Canva**
 
-- 🌱 I’m currently learning **Python 🐍 | React | Node.js + Express.js | Adobe XD | Algie methodologies | Test automation**
+- 🌱 I’m currently learning **Python 🐍 | React | Node.js + Express.js | Adobe XD | Scrum (Agile methodology) | Test automation**
 
 - 📫 How to reach me **chprince@sheridancollege.ca**
 
@@ -48,7 +48,7 @@
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3nGP9w-Ol7H0GYUnDUdCwqnoLwRzoe_cmA&s" alt="express" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="xd" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/></a>
+  <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="60"/></a>
 </div> <br><br>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chprince11&show_icons=true&locale=en&layout=compact" alt="chprince11">
