@@ -13,7 +13,7 @@
 
 - Doing freelancing in <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a> as a Software Developer  ( Winter, 2024 ) - Remote 
   
-- 💪 Hands on experience with **HTML | CSS | Scss | JavaScript | DOM | JQuery | Bootstrap( Fundamentals) | Linux/Unix | NoSql/ SQL | GitHub | VScode | Figma | Canva**
+- 💪 Hands on experience with **HTML | CSS | Scss | JavaScript | DOM | JQuery | Bootstrap( Fundamentals) | Linux/Unix | AWS | NoSql/ SQL | GitHub | VScode | Figma | Canva**
 
 - 🌱 I’m currently learning **Python 🐍 | React | Node.js + Express.js | Adobe XD | Scrum (Agile methodology) | Test automation**
 
@@ -34,6 +34,7 @@
   <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank" rel="noopener noreferrer"><img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="AWS" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a>&nbsp;&nbsp;
