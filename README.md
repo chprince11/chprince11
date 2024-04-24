@@ -57,8 +57,11 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="60"/></a>
 </div> <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chprince11&show_icons=true&locale=en&layout=compact&theme=jolly" alt="GitHub Stats for chprince11" width="400">  
+## GitHub Stats for chprince11
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&show_icons=true&locale=en&layout=compact&theme=jolly)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=chprince11&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chprince11&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact)
+
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=jolly)
+
