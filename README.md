@@ -1,10 +1,10 @@
 ![logo](https://media.licdn.com/dms/image/D4E16AQGNLqvNzi0j0g/profile-displaybackgroundimage-shrink_350_1400/0/1713874012426?e=1719446400&v=beta&t=Wp0pOoN7gpg4FoY7FsCaZSFlvAMShF1e39RPUtghOkk)
-<p align="center">Watch my contribution graph get eaten by the snake 🐍</p>
+
+> Watch my contribution graph get eaten by the snake 🐍
 
 ![chprince snake gif](https://raw.githubusercontent.com/chprince11/Svg/250e0c86ad278870f96da3c40b172f6ef4e48a02/snakeSVG.svg?token=A5F5IGCSAMQQNQCDEKFP2UDGFBZTY)
-
 <head>
-  <link href="https://fonts.googleapis.com/css2family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 <h3 align="center">IT Student Professional Passionate for Software Engineer/ Full Stack Developer 👨‍💻</h3>
