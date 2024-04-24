@@ -2,7 +2,7 @@
 
 > Watch my contribution graph get eaten by the snake 🐍
 
-![chprince snake gif](https://raw.githubusercontent.com/chprince11/Svg/250e0c86ad278870f96da3c40b172f6ef4e48a02/snakeSVG.svg?token=A5F5IGCSAMQQNQCDEKFP2UDGFBZTY)
+![chprince snake gif](https://github.com/chprince11/Svg/blob/output/snakeSVG.svg)
 <head>
 <link href="https://fonts.googleapis.com/css2family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
