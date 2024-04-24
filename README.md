@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/D4E16AQGNLqvNzi0j0g/profile-displaybackgroundimage-shrink_350_1400/0/1713874012426?e=1719446400&v=beta&t=Wp0pOoN7gpg4FoY7FsCaZSFlvAMShF1e39RPUtghOkk)
 <p align="center">Watch my contribution graph get eaten by the snake 🐍</p>
 
-![chprince](https://github.com/chprince11/Svg/blob/output/snakeSVG.svg)
+![chprince snake gif](https://github.com/chprince11/Svg/blob/output/snakeSVG.svg)
 
 <head>
   <link href="https://fonts.googleapis.com/css2family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
@@ -56,7 +56,7 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="60"/></a>
 </div> <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chprince11&show_icons=true&locale=en&layout=compact&theme=jolly" alt="GitHub Stats for chprince11" width="500">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chprince11&show_icons=true&locale=en&layout=compact&theme=jolly" alt="GitHub Stats for chprince11" width="400">  
 
 <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for chprince11" width="500">
 
