@@ -61,4 +61,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for chprince11" width="500">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chprince11&theme=jolly" alt="GitHub Stats for chprince11" width="500">
+<img src="https://github-readme-streak-stats.herokuapp.com?username=chprince11&theme=jolly" alt="GitHub Stats for chprince11" width="500">
