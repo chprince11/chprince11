@@ -27,20 +27,20 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <h4>Experienced with:</h4>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank" rel="noopener noreferrer"><img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="AWS" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://jquery.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank" rel="noopener noreferrer"><img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="AWS" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/></a>
 </div>
 <div align="left">
   <h4>Learning:</h4>
