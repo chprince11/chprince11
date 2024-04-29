@@ -59,9 +59,9 @@
 
 ## GitHub Stats for chprince11
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?user=chprince11&show_icons=true&locale=en&layout=compact&theme=jolly) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&show_icons=true&locale=en&layout=compact&theme=jolly) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?user=chprince11&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chprince11&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact)
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=jolly)
 
