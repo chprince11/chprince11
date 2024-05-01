@@ -18,22 +18,22 @@
 <br>
   
 > ***Front-End Tech.***
-- **HTML | CSS/ Sass | JavaScript | React | DOM/ Manipulation | JQuery | Bootstrap( Fundamentals) | UI/ UX**
+- **HTML, CSS/ Sass, JavaScript, React, DOM/ Manipulation, JQuery, Bootstrap( Fundamentals), UI/ UX**
 > ***Back-End Tech.***
-- **Node.js + Express.js | npm** 
+- **Node.js + Express.js, npm** 
 > ***Database ( DB )***
-- **MySQL | PostgreSQL | MongoDB/ NoSQL**
+- **MySQL, PostgreSQL, MongoDB/ NoSQL**
 > ***Version Control***
-- **Git/ GitHub | Git Action | Pull Requests | Forking | Cloning**  
+- **Git/ GitHub, Git Action, Pull Requests, Forking, Cloning, Branching, Merging**  
 > ***Tools/ Editor:***
-- **VS code | CodeSandbox | Eclipse | Postman | Figma | Canva**
+- **VS code, CodeSandbox, Eclipse, Postman, Figma, Canva**
 > OS:
 - **Linux/Unix, Windows, MacOS, Android, iOS**
 <br>
 
 > 🌱 Under progress 🍃
-- **DS&A with Python | AWS**  
-- **Python 🐍 ( Core Concepts ) | React | Node.js + Express.js | Adobe XD | Scrum (Agile methodology) | Test automation**
+- **DS&A with Python, AWS**  
+- **Python 🐍 ( Core Concepts ), React, Node.js + Express.js, Adobe XD, Scrum (Agile methodology), Test automation**
 <br>
 
 - 📫 How to reach me **chprince@sheridancollege.ca**
