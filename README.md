@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
-- Doing freelancing in <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a> as a Software Developer, under Senior DevOps Engineer ( Feb '024 - Present ) - Remote 
+- Currently, I'm freelancing as a Software Developer with <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>, working alongside with Sr. DevOps Engineer. ( Feb '024 - Present ) - Remote 
 
-- Internship completed from <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a> as Full Stack Developer ( Jan - Apr '024 ) - Hybrid
+- Prior to this, I completed a fulfilling intership as a Full Stack Developer at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan - Apr '024 ) - Hybrid
 <br>
   
 > ***Front-End Tech.***
@@ -31,7 +31,7 @@
 - **Linux/Unix, Windows, MacOS, Android, iOS**
 <br>
 
-> 🌱 In progress 🍃
+> 🌱 Under progress 🍃
 - **DS&A with Python | AWS**  
 - **Python 🐍 ( Core Concepts ) | React | Node.js + Express.js | Adobe XD | Scrum (Agile methodology) | Test automation**
 <br>
@@ -43,7 +43,6 @@
 <a href="https://linkedin.com/in/prince-chauhan-438b0824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-chauhan-438b0824b/" height="40" width="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <h4>Experienced with:</h4>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>&nbsp;&nbsp;
@@ -71,7 +70,7 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="60"/></a>
 </div> <br><br>
 
-## GitHub Stats for chprince11
+## GitHub Stats for chprince11 😊
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chprince11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chprince11" /></p>
 
