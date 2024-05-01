@@ -18,17 +18,17 @@
 <br>
   
 > ***Front-End Tech.***
-- **HTML, CSS/ Sass, JavaScript, React, DOM/ Manipulation, JQuery, Bootstrap( Fundamentals), UI/ UX**
+- **HTML, CSS/ Sass, JavaScript, React, JQuery, Bootstrap( Fundamentals), UI/ UX**
 > ***Back-End Tech.***
-- **Node.js + Express.js, npm** 
+- **Node.js + Express.js, npm, DOM/ Manipulation, OOPs** 
 > ***Database ( DB )***
 - **MySQL, PostgreSQL, MongoDB/ NoSQL**
 > ***Version Control***
 - **Git/ GitHub, Git Action, Pull Requests, Forking, Cloning, Branching, Merging**  
 > ***Tools/ Editor:***
-- **VS code, CodeSandbox, Eclipse, Postman, Figma, Canva**
+- **VS code, CodeSandbox, Eclipse, Postman, Figma, Canva, Visual Paradigm**
 > OS:
-- **Linux/Unix, Windows, MacOS, Android, iOS**
+- **Linux/Unix, Windows, MacOS, iOS, Android,**
 <br>
 
 > 🌱 Under progress 🍃
