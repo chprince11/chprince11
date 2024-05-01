@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
-- Currently, I'm freelancing as a Software Developer with <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>, working alongside with Sr. DevOps Engineer. ( Feb '024 - Present ) - Remote 
+- Currently, I'm freelancing as a **Software Developer** with <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>, working alongside with **Sr. DevOps Engineer**. ( Feb '024 - Present ) - **Remote** 
 
-- Prior to this, I completed a fulfilling intership as a Full Stack Developer at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan - Apr '024 ) - Hybrid
+- Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan - Apr '024 ) - **Hybrid**
 <br>
   
 > ***Front-End Tech.***
