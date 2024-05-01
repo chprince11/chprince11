@@ -4,23 +4,37 @@
 
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
-<head>
-<link href="https://fonts.googleapis.com/css2family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-</head>
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
+
 <h3 align="center">IT Student Professional Passionate for Software Engineer/ Full Stack Developer 👨‍💻</h3>
 
 <img align="right" alt="coding" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
-- Intern at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a> as Full Stack Developer ( Winter, 2024 ) - Hybrid
+- Doing freelancing in <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a> as a Software Developer, under Senior DevOps Engineer ( Feb '024 - Present ) - Remote 
 
-- Doing freelancing in <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a> as a Software Developer  ( Winter, 2024 ) - Remote 
+- Internship completed from <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a> as Full Stack Developer ( Jan - Apr '024 ) - Hybrid
+<br>
   
-- 💪 Hands on experience with **HTML | CSS | Scss | JavaScript | DOM | JQuery | Bootstrap( Fundamentals) | Linux/Unix | AWS | NoSql/ SQL | GitHub | VScode | Figma | Canva**
+> ***Front-End Tech.***
+- **HTML | CSS/ Sass | JavaScript | React | DOM/ Manipulation | JQuery | Bootstrap( Fundamentals) | UI/ UX**
+> ***Back-End Tech.***
+- **Node.js + Express.js | npm** 
+> ***Database ( DB )***
+- **MySQL | PostgreSQL | MongoDB/ NoSQL**
+> ***Version Control***
+- **Git/ GitHub | Git Action | Pull Requests | Forking | Cloning**  
+> ***Tools/ Editor:***
+- **VS code | CodeSandbox | Eclipse | Postman | Figma | Canva**
+> OS:
+- **Linux/Unix, Windows, MacOS, Android, iOS**
+<br>
 
-- 🌱 I’m currently learning **Python 🐍 | React | Node.js + Express.js | Adobe XD | Scrum (Agile methodology) | Test automation**
+> 🌱 In progress 🍃
+- **DS&A with Python | AWS**  
+- **Python 🐍 ( Core Concepts ) | React | Node.js + Express.js | Adobe XD | Scrum (Agile methodology) | Test automation**
+<br>
 
 - 📫 How to reach me **chprince@sheridancollege.ca**
 
@@ -59,9 +73,8 @@
 
 ## GitHub Stats for chprince11
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&show_icons=true&locale=en&layout=compact&theme=jolly) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chprince11&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chprince11" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chprince11&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&locale=en&theme=tokyonight" alt="chprince11" /></p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=jolly)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=dark" alt="chprince11" /></p>
