@@ -25,9 +25,9 @@
 - **MySQL, PostgreSQL, MongoDB/ NoSQL**
 > ***Version Control***
 - **Git/ GitHub, Git Action, Pull Requests, Forking, Cloning, Branching, Merging**  
-> ***Editor/ Concepts***
-- **VS code, CodeSandbox, Eclipse, DOM/ Manipulation, OOPs**
-> ***Tools***
+> ***Editors/Concepts***
+- **VS code, CodeSandbox, Eclipse, DOM/ Manipulation, OOPs, MVC**
+> ***Softwares/Tools***
 - **Postman, Figma, Canva, Visual Paradigm, Draw.io**
 > OS:
 - **Linux/Unix, Windows, MacOS, iOS, Android,**
