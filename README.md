@@ -18,9 +18,9 @@
 <br>
   
 > ***Front-End Tech.***
-- **HTML, CSS/ Sass, JavaScript, React, JQuery, Bootstrap( Fundamentals), UI/ UX**
+- **ReactJS, JavaScript, JQuery, Bootstrap, HTML, CSS/ Sass, UI/ UX**
 > ***Back-End Tech./ Concepts***
-- **Node.js + Express.js, npm, DOM/ Manipulation, OOPs, MVC** 
+- **Node.js + Express, npm, DOM/ Manipulation, OOPs, MVC** 
 > ***Database ( DB )***
 - **MySQL, PostgreSQL, MongoDB/ NoSQL**
 > ***Version Control/ Code Editor***
