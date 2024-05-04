@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4E16AQGNLqvNzi0j0g/profile-displaybackgroundimage-shrink_350_1400/0/1713874012426?e=1719446400&v=beta&t=Wp0pOoN7gpg4FoY7FsCaZSFlvAMShF1e39RPUtghOkk)
+![logo](https://media.licdn.com/dms/image/D4E16AQGEDCILg7jP4A/profile-displaybackgroundimage-shrink_350_1400/0/1714781460373?e=1720051200&v=beta&t=k6gqfBPfZ9350itKdlwr1jAFBlxUGfU2ufMH6IRxkJc)
 
 > Watch my contribution graph get eaten by the snake 🐍
 
