@@ -17,11 +17,11 @@
 - Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 ) - **Remote**
 <br>
   
-> ***Front-End Tech.***
+> ***Front-End Development***
 - **ReactJS, JavaScript, JQuery, Bootstrap, HTML, CSS/ Sass, UI/ UX**
-> ***Back-End Tech./ Concepts***
-- **Node.js + Express, npm, DOM/ Manipulation, OOPs, MVC** 
-> ***Database ( DB )***
+> ***Back-End Development/ Concepts/ Technologies***
+- **Node.js + Express, Java + Spring Boot, OOPs, RESTful APIs , npm, DOM manipulation, MVC** 
+> ***Database***
 - **Oracle, NoSQL, MySQL, PostgreSQL**
 > ***Version Control/ Code Editor***
 - **Git, GitHub, VS code, CodeSandbox, Eclipse**
@@ -33,7 +33,7 @@
 
 > 🌱 Under progress 🍃
 - **DS&A with Python, AWS**  
-- **Python 🐍 ( Core Concepts ), React, Node.js + Express.js, Adobe XD, Scrum (Agile methodology), Test automation**
+- **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum (Agile methodology), Test automation**
 <br>
 
 - 📫 How to reach me **chprince@sheridancollege.ca**
