@@ -23,12 +23,14 @@
 - **Node.js + Express, Java + Spring Boot, OOPs, RESTful APIs , npm, DOM manipulation, MVC** 
 > ***Database***
 - **Oracle, NoSQL, MySQL, PostgreSQL**
+- > ***Cloud Technologies***
+- **AWS, EC2, VPC, S3, nginx ( server )**
 > ***Version Control/ Code Editor***
 - **Git, GitHub, VS code, CodeSandbox, Eclipse**
 > ***Software/ Tools***
 - **Postman, Figma, Canva, Visual Paradigm, Draw.io**
 > OS:
-- **Linux/Unix, Windows, MacOS, iOS, Android,**
+- **Linux/Unix, Windows, Android, MacOS, iOS**
 <br>
 
 > 🌱 Under progress 🍃
