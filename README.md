@@ -34,7 +34,7 @@
 <br>
 
 > 🌱 Under progress 🍃
-- **DS&A with Python, AWS**  
+- **DS&A with Python, AWS, Database & Analytics Strategy**  
 - **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum (Agile methodology), Test automation**
 <br>
 
