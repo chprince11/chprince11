@@ -28,7 +28,7 @@
 > ***Version Control/ Code Editor***
 - **Git, GitHub, VS code, Visual Studio, CodeSandbox, Eclipse**
 > ***Software/ Tools***
-- **Postman, Figma, Canva, Visual Paradigm, Draw.io**
+- **sqldeveloper.exe, Postman, Figma, Canva, Visual Paradigm, Draw.io**
 > OS:
 - **Linux/Unix, Windows, Android, MacOS, iOS**
 <br>
