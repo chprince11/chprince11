@@ -26,7 +26,7 @@
 > ***Cloud Technologies***
 - **AWS, EC2, VPC, S3, nginx ( server )**
 > ***Version Control/ Code Editor***
-- **Git, GitHub, VS code, CodeSandbox, Eclipse**
+- **Git, GitHub, VS code, Visual Studio, CodeSandbox, Eclipse**
 > ***Software/ Tools***
 - **Postman, Figma, Canva, Visual Paradigm, Draw.io**
 > OS:
