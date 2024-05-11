@@ -35,7 +35,7 @@
 
 > 🌱 Under progress 🍃
 - **DS&A with Python, AWS, Database & Analytics Strategy**  
-- **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum (Agile methodology), Test automation**
+- **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum ( Agile methodology ), Test automation**
 <br>
 
 - 📫 How to reach me **chprince@sheridancollege.ca**
