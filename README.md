@@ -22,7 +22,7 @@
 > ***Back-End Development/ Concepts/ Technologies***
 - **Node.js + Express, Java + Spring Boot, OOPs, RESTful APIs , npm, DOM manipulation, MVC** 
 > ***Database***
-- **Oracle SQL Developer, PL/SQL, MySQL, PostgreSQL**
+- **SQL Oracle, PL/SQL, MySQL, PostgreSQL**
 > ***Cloud Technologies***
 - **AWS, EC2, VPC, S3, nginx ( server )**
 > ***Version Control/ Code Editor***
