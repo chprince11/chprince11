@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4E16AQGEDCILg7jP4A/profile-displaybackgroundimage-shrink_350_1400/0/1714781460373?e=1720051200&v=beta&t=k6gqfBPfZ9350itKdlwr1jAFBlxUGfU2ufMH6IRxkJc)
 
-> Watch my contribution graph get eaten by the snake 🐍
+> Watch my contribution graph get eaten by the snake 🐍 **|** Go check my GitHub stats 👀  
 
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
@@ -20,22 +20,22 @@
 > ***Front-End Development***
 - **ReactJS, JavaScript, JQuery, Bootstrap, HTML, CSS/ Sass, UI/ UX**
 > ***Back-End Development/ Concepts/ Technologies***
-- **Node.js + Express, Java + Spring Boot, OOPs, RESTful APIs , npm, DOM manipulation, MVC** 
-> ***Database***
-- **SQL Oracle, PL/SQL, MySQL, PostgreSQL**
+- **Node.js + Express, Spring Boot, OOPs, RESTful APIs , npm, DOM manipulation, MVC** 
+> ***Database/ Languages***
+- **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
 > ***Cloud Technologies***
-- **AWS, EC2, VPC, S3, nginx ( server )**
+- **AWS, EC2, VPC, S3, nginx**
 > ***Version Control/ Code Editor***
-- **Git, GitHub, VS code, Visual Studio, CodeSandbox, Eclipse**
+- **Git, GitHub, VS code, Eclipse, Visual Studio, CodeSandbox, SQL Developer**
 > ***Software/ Tools***
-- **sqldeveloper.exe, Postman, Figma, Canva, Visual Paradigm, Draw.io**
+- **Postman, Figma, Canva, Visual Paradigm, Draw.io**
 > OS:
 - **Linux/Unix, Windows, Android, MacOS, iOS**
 <br>
 
 > 🌱 Under progress 🍃
 - **DS&A with Python, AWS, Database & Analytics Strategy**  
-- **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum ( Agile methodology ), Test automation**
+- **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum Framework ( Agile methodology ), Test automation**
 <br>
 
 - 📫 How to reach me **chprince@sheridancollege.ca**
