@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4E16AQGEDCILg7jP4A/profile-displaybackgroundimage-shrink_350_1400/0/1714781460373?e=1720051200&v=beta&t=k6gqfBPfZ9350itKdlwr1jAFBlxUGfU2ufMH6IRxkJc)
 
-> Watch my contribution graph get eaten by the snake 🐍 **|** Go check my GitHub stats 👀  
+> Watch my contribution graph get eaten by the snake 🐍 **|** GitHub stats 👀  
 
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
