@@ -24,7 +24,7 @@
 > ***Database/ Languages***
 - **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
 > ***Cloud Technologies***
-- **AWS, EC2, VPC, S3, lambda, nginx**
+- **AWS, EC2, VPC, S3, nginx**
 > ***Version Control/ Code Editor***
 - **Git, GitHub, VS code, Eclipse, Visual Studio, CodeSandbox, SQL Developer**
 > ***Software/ Tools***
