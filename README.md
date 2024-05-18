@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
-- Currently, I'm freelancing as a **Junior Web Developer** with <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>, working alongside with **Sr. DevOps Engineer**. ( Feb 2024 - Present ) - **Remote** 
+- Had a great experience worked alongside with **Sr. DevOps Engineer** as a **Junior Web Developer** freelancer with <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>,  ( Feb 2024 - May2024 ) - **Remote** 
 
 - Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 ) - **Remote**
 <br>
@@ -24,9 +24,9 @@
 > ***Database/ Languages***
 - **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
 > ***Cloud Technologies***
-- **AWS, EC2, VPC, S3, nginx**
+- **AWS, EC2, VPC, S3,AWS Elastic beanstalk, nginx, apache**
 > ***Version Control/ Code Editor***
-- **Git, GitHub, VS code, Eclipse, Visual Studio, CodeSandbox, SQL Developer**
+- **Git, GitHub, VS code, Eclipse, Visual Studio, Vim, CodeSandbox, SQL Developer**
 > ***Software/ Tools***
 - **Postman, Figma, Canva, Visual Paradigm, Draw.io**
 > OS:
