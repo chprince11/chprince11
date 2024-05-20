@@ -20,7 +20,7 @@
 > ***Front-End Development***
 - **ReactJS, JavaScript, JQuery, Bootstrap, HTML, CSS/ Sass, UI/ UX**
 > ***Back-End Development/ Concepts/ Technologies***
-- **Node.js + Express, Spring Boot, OOPs, RESTful APIs , npm, DOM manipulation, MVC** 
+- **Node.js + Express, Spring Boot, OOPs, npm, DOM manipulation, MVC, RESTful APIs** 
 > ***Database/ Languages***
 - **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
 > ***Cloud Technologies***
