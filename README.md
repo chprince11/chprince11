@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4E16AQET3g1BzSZIQA/profile-displaybackgroundimage-shrink_350_1400/0/1715812110334?e=1721260800&v=beta&t=rHqN55edQHcKiUi75Sa4MpPGBpzwISKq1HBTmYTO8TI)
+![logo](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 
 > Watch my contribution graph get eaten by the snake 🐍 **|** GitHub stats 👀  
 
