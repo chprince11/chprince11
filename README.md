@@ -16,24 +16,30 @@
 
 - Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 ) - **Remote**
 <br>
-  
-> ***Front-End Development***
+
+> ***SOFT SKILLS***
+- **Team player, Problem-solving, Bias for action, Proactive, Critical thinker**   
+> ***FRONT-END DEVELOPMENT***
 - **ReactJS, JavaScript, JQuery, Bootstrap, HTML, CSS/ Sass, UI/ UX**
-> ***Back-End Development/ Concepts/ Technologies***
+> ***BACK-END DEVELOPMENT/ CONCEPTS***
 - **Node.js + Express, Spring Boot, OOPs, npm, DOM manipulation, MVC, RESTful APIs** 
-> ***Database/ Languages***
+> ***DATABASE***
 - **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
-> ***Cloud Technologies***
+> ***CLOUD STACK***
 - **AWS, EC2, VPC, S3, AWS ECS, nginx, apache**
-> ***Version Control/ Code Editor***
-- **Git, GitHub, VS code, Eclipse, Visual Studio, Vim, CodeSandbox, SQL Developer**
-> ***Software/ Tools***
+> ***METHODOLOGIES MODELS***
+- Agile ( Scrum ), Waterfall  
+> ***NETWORK TECHNOLOGIES***
+- **TCP/IP, IPv4/IPv6, DNS, DHCP, Routers, Subnetting, Switches, HTTP protocol, Ethernet**  
+> ***VERSION CONTROL/ CODE EDITOR***
+- **Git, GitHub, VS code, Eclipse, Visual Studio, Vim, Nano, SQL Developer**
+> ***SOFTWARE/ TOOLS***
 - **Postman, Figma, Canva, Visual Paradigm, Draw.io**
-> OS:
+> ***OS***
 - **Linux/Unix, Windows, Android, MacOS, iOS**
 <br>
 
-> 🌱 Under progress 🍃
+>> 🌱 Under progress 🍃
 - **DS&A with Python, AWS, Database & Analytics Strategy**  
 - **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum Framework ( Agile methodology ), Test automation**
 <br>
@@ -42,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince-chauhan-438b0824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-chauhan-438b0824b/" height="40" width="50" /></a>
+<a href="http://www.linkedin.com/in/prince011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a>
 </p>
 
 <div align="left">
