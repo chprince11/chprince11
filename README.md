@@ -18,7 +18,7 @@
 <br>
 
 > ***SOFT SKILLS***
-- **Team player, Problem-solving, Leadership, Bias for action, Proactive, Critical thinker, Communication **   
+- **Team player, Problem-solving, Leadership, Bias for action, Proactive, Critical thinker, Communication**   
 > ***FRONT-END DEVELOPMENT***
 - **ReactJS, JavaScript, JQuery, Bootstrap, HTML, CSS/ Sass, UI/ UX**
 > ***BACK-END DEVELOPMENT/ CONCEPTS***
