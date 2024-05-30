@@ -12,17 +12,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
+- Had a great experience working alongside with **DevOps Engineer** as a **Junior Web Developer** freelancer at <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>,  ( Feb 2024 - May2024 ) - **Remote**
+  
 - Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 ) - **Remote**
-
-- Had a great experience working alongside with **Sr. DevOps Engineer** as a **Junior Web Developer** freelancer at <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>,  ( Feb 2024 - May2024 ) - **Remote** 
 <br>
 
 > ***SOFT SKILLS***
 - **Team player, Problem-solving, Leadership, Bias for action, Proactive, Critical thinker, Communication**   
-> ***FRONT-END DEVELOPMENT***
-- **ReactJS, JavaScript, JQuery, Bootstrap, HTML, CSS/ Sass, UI/ UX**
-> ***BACK-END DEVELOPMENT/ CONCEPTS***
-- **Node.js + Express, Java, Spring Boot, OOPs, npm, DOM manipulation, MVC, RESTful APIs** 
+> ***LANGUAGES/ FRAMEWORKS***
+- **C, Java, JavaScript, Python, React, JQuery, Bootstrap, HTML, CSS, Node.js, Express, Spring Boot, OOPs, Npm, DOM manipulation, MVC, RESTful APIs** 
 > ***DATABASE***
 - **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
 > ***CLOUD STACK***
