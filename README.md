@@ -6,15 +6,15 @@
 
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 
-<h3 align="center">IT Student Professional Passionate for Software Engineer/ Full Stack Developer 👨‍💻</h3>
+<h3 align="center">Action-Oriented Jr. Software Engineer/ Full Stack Developer 👨‍💻</h3>
 
 <img align="right" alt="coding" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
-- Had a great experience working alongside with **DevOps Engineer** as a **Junior Web Developer** freelancer at <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>,  ( Feb 2024 - May2024 ) - **Remote**
+- Had a great experience working alongside with **DevOps Engineer** as a **Junior Web Developer** freelancer at <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>,  ( Feb 2024 - May 2024 )
   
-- Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 ) - **Remote**
+- Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 )
 <br>
 
 > ***SOFT SKILLS***
