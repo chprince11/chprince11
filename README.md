@@ -42,7 +42,6 @@
 - **C#, .NET Framework, Visual Studio** 
 - **DS&A with Python, AWS, Database & Analytics Strategy**  
 - **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum Framework ( Agile methodology ), Test automation**
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
