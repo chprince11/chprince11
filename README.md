@@ -20,7 +20,7 @@
 > ***SOFT SKILLS***
 - **Team player, Problem-solving, Leadership, Bias for action, Proactive, Critical thinker, Communication**   
 > ***LANGUAGES/ FRAMEWORKS***
-- **Java, JavaScript, Python (Data Structures), React, JQuery, Bootstrap, HTML, CSS, Node.js, Express, Spring Boot, OOPs, Npm, DOM manipulation, MVC, RESTful APIs, HTTPs** 
+- **Java, JavaScript, Python (Data Structures), C#, React, JQuery, Bootstrap, HTML, CSS, Node.js, Express, Spring Boot, OOPs, Npm, DOM manipulation, MVC, RESTful APIs, HTTPs** 
 > ***DATABASES***
 - **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
 > ***CLOUD STACK***
