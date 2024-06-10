@@ -24,7 +24,7 @@
 > ***DATABASES***
 - **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
 > ***CLOUD STACK***
-- **AWS, EC2, VPC, S3, AWS ECS, nginx, apache**
+- **AWS, EC2, VPC, S3, ECS, nginx, apache**
 > ***METHODOLOGIES MODELS***
 - Agile ( Scrum ), Waterfall   
 > ***VERSION CONTROL/ CODE EDITOR***
@@ -66,9 +66,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/></a>
-</div>
-<div align="left">
-  <h3>Learning:</h3>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/></a>&nbsp;&nbsp;
