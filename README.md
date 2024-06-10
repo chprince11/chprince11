@@ -15,6 +15,7 @@
 - Had a great experience working alongside with **DevOps Engineer** as a **Junior Web Developer** freelancer at <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>,  ( Feb 2024 - May 2024 )
   
 - Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 )
+- 📫 How to reach me **chprince@sheridancollege.ca**
 <br>
 
 > ***SOFT SKILLS***
@@ -42,8 +43,6 @@
 - **DS&A with Python, AWS, Database & Analytics Strategy**  
 - **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum Framework ( Agile methodology ), Test automation**
 <br>
-
-- 📫 How to reach me **chprince@sheridancollege.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
