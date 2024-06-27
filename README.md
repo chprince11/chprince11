@@ -27,7 +27,7 @@
 > ***CLOUD STACK***
 - **AWS, EC2, VPC, S3, ECS, nginx, apache**
 > ***METHODOLOGIES MODELS***
-- Agile ( Scrum ), Waterfall   
+- **Agile ( Scrum ), Waterfall**   
 > ***VERSION CONTROL/ CODE EDITOR***
 - **Git, GitHub, VS code, Eclipse, Visual Studio, Vim, Nano, SQL Developer**
 > ***SOFTWARE/ TOOLS***
