@@ -16,6 +16,11 @@
   
 - Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 )
 - 📫 How to reach me **chprince@sheridancollege.ca**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="http://www.linkedin.com/in/prince011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a>
+</p>
+
 <br>
 
 > ***SOFT SKILLS***
@@ -42,12 +47,7 @@
 - **C#, .NET Framework, Visual Studio** 
 - **DS&A with Python, AWS, Database & Analytics Strategy**  
 - **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum Framework ( Agile methodology ), Test automation**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/prince011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a>
-</p>
-
+  
 <div align="left">
   <h3>Experienced with:</h3>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>&nbsp;&nbsp;
