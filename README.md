@@ -23,26 +23,6 @@
 
 <br>
 
-> ***SOFT SKILLS***
-- **Team player, Problem-solving, Leadership, Bias for action, Proactive, Critical thinker, Communication**   
-> ***LANGUAGES/ FRAMEWORKS***
-- **Java, JavaScript, Python (Data Structures), C#, React, JQuery, Bootstrap, HTML, CSS, Node.js, Express, Spring Boot, OOPs, Npm, DOM manipulation, MVC, RESTful APIs, HTTPs** 
-> ***DATABASES***
-- **Oracle, MySQL, PostgreSQL, PL/SQL, DML, DDL**
-> ***CLOUD STACK***
-- **AWS, EC2, VPC, S3, ECS, nginx, apache**
-> ***METHODOLOGIES MODELS***
-- **Agile ( Scrum ), Waterfall**   
-> ***VERSION CONTROL/ CODE EDITOR***
-- **Git, GitHub, VS code, Eclipse, Visual Studio, Vim, Nano, SQL Developer**
-> ***SOFTWARE/ TOOLS***
-- **Jira (issue & bug tracking), Postman, Figma, Canva, Visual Paradigm, Draw.io**
-> ***NETWORK TECHNOLOGIES***
-- **TCP/IP, IPv4/IPv6, DNS, DHCP, Routers, Subnetting, Switches, HTTP protocol, Ethernet** 
-> ***OS***
-- **Linux/Unix, Windows, Android, Microsoft, MacOS, iOS**
-<br>
-
 >> 🌱 Under progress 🍃
 - **C#, .NET Framework, Visual Studio** 
 - **DS&A with Python, AWS, Database & Analytics Strategy**  
