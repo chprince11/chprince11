@@ -6,16 +6,18 @@
 
 <h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
 
-<h3 align="center">Action-Oriented Jr. Software Engineer/ Full Stack Developer 👨‍💻</h3>
+<h3 align="center">Action-Oriented Junior Software Engineer/ Full Stack Developer 👨‍💻</h3>
 
 <img align="right" alt="coding" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
 
-- Had a great experience working alongside with **DevOps Engineer** as a **Junior Web Developer** freelancer at <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>,  ( Feb 2024 - June 2024 )
+- Had a great experience working alongside with **DevOps Engineer** as a **Junior Web Developer** freelancer at <a href="https://www.verifone.com/en/global" target="_blank"> @Verifone </a>. ( Feb 2024 - June 2024 )
   
-- Prior to this, I completed a fulfilling intership as a **Full Stack Developer** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web applications. ( Jan 2024 - Apr 2024 )
+- Prior to this, I completed a fulfilling intership as a **Full Stack Developer (Open Source)** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web application and also fixed website bugs. ( Jan 2024 - Apr 2024 )
+  
 - 📫 How to reach me **chprince@sheridancollege.ca**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/prince011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a>
@@ -23,10 +25,8 @@
 
 <br>
 
->> 🌱 Under progress 🍃
-- **C#, .NET Framework, Visual Studio** 
-- **DS&A with Python, AWS, Database & Analytics Strategy**  
-- **Python 🐍 ( Core Concepts ), ReactJS, Node.js + Express.js, Adobe XD, Scrum Framework ( Agile methodology ), Test automation**
+>> 🌱 Under Revision 🍃
+- **Python 🐍 (Core Concepts), Data Structures & Algorithms, ReactJS, Node.js + Express.js, Scrum, Test automation, AWS**
   
 <div align="left">
   <h3>Experienced with:</h3>
@@ -38,7 +38,6 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer"><img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank" rel="noopener noreferrer"><img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="AWS" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/></a>&nbsp;&nbsp;
@@ -54,15 +53,6 @@
 
 ## GitHub Stats for chprince11 😊
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=6&card_width=500)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 450px;" />
-</p>
-
-<p>
-  <a href="https://github.com/chprince11">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=dark" alt="GitHub Streak" style="width: 500px;"/>
-  </a>
-</p>
-
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=6)
+<img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=dark" alt="GitHub Streak"/>
