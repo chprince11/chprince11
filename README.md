@@ -54,11 +54,16 @@
 
 ## GitHub Stats for chprince11 😊
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=6&card_width=500)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 450px;" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=6&card_width=500" alt="Top Languages Card"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 450px;" />
+    </td>
+  </tr>
+</table>
 
 <p>
   <a href="https://github.com/chprince11">
