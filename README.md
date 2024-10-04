@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D4E16AQGNTKZX6UJe4Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727578394246?e=1733356800&v=beta&t=tSOobL8JqLMovNgwGzzP4eymDdFcwCk9YzsGAvUqhTk)
+![logo](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg?w=1140&ssl=1)
 
 > Watch my contribution graph get eaten by the snake 🐍 **|** GitHub stats 👀  
 
