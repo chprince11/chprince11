@@ -26,7 +26,7 @@
 <br>
 
 >> 🌱 Under Revision 🍃
-- **ReactJS, Node.js, Testing with Jest, Python 🐍 (Core Concepts), Data Structures & Algorithms, Agile (Scrum), Test automation, Bootstrap**
+- **ReactJS, Next.js, Node.js, Testing with Jest, Python 🐍 (Core Concepts), Data Structures & Algorithms, Agile (Scrum), Test automation, Bootstrap**
   
 <div align="left">
   <h3>Experienced with:</h3>
