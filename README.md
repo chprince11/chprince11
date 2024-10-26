@@ -5,7 +5,7 @@
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&letterSpacing=single&duration=3000&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Prince+Chauhan+;Front-End+%2F+React+Developer" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=35&amp;duration=3300&amp;pause=1200&amp;color=1255FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=605&amp;lines=Hi!+I+am+Prince+Chauhan.+;Front-End+%2F+React+Developer.">
 </p>
 
 <img align="right" alt="coding" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
