@@ -4,14 +4,16 @@
 
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
-<h1 align="center">Hi 👋, I'm Prince Chauhan</h1>
-
-<h3 align="center">Action-Oriented Front- End Developer / React Developer 👨‍💻</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi👋,I'm+Prince+Chauhan;Front-End+/+React+Developer;&font=Helvetica%20Code&color=3a9bdc&center=true&width=480&height=100&duration=3000&pause=100&size=30" alt="Hi👋, I'm Prince Chauhan | Front-End / React Developer">
+</p>
 
 <img align="right" alt="coding" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="chprince11" /> </p>
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chprince11&label=Profile%20views&color=0e75b6&style=flat" alt="Total number of profile views" /> </p>
+
+---
+
 - Had a great experience, I completed a fulfilling intership as a **Full Stack Developer (Open Source)** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web application and also fixed website bugs. ( Jan 2024 - May 2024 )
   
 - 📫 How to reach me **chprince@sheridancollege.ca**
