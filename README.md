@@ -56,6 +56,4 @@
 
 <h2 class="heading-element" dir="auto">🔝Stats:</h2>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=8)
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=dark" alt="GitHub Streak"/>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=8) <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=dark" alt="GitHub Streak"/>
