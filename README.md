@@ -30,7 +30,7 @@
 - **ReactJS, Next.js, Node.js, Testing with Jest, Python 🐍 (Core Concepts), Data Structures & Algorithms, Agile (Scrum), Test automation, Bootstrap**
   
 <div align="left">
-  <h2 class="heading-element" dir="auto">Experienced with:</h2>
+  <h2 class="heading-element" dir="auto">Skills:</h2>
   
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>&nbsp;&nbsp;
@@ -54,8 +54,9 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="60"/></a>
 </div>
 
-<h2 class="heading-element" dir="auto">🔝 Stats:</h2>
+<h2 class="heading-element" dir="auto">🔝Stats:</h2>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=6)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=tokyonight&langs_count=8)
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=dark" alt="GitHub Streak"/>
