@@ -51,7 +51,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="50" height="50"/></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="xd" width="60" height="60"/></a>&nbsp;&nbsp;
-  <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="60"/></a>
+  <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="59"/></a>
 </div>
 
 <h2 class="heading-element" dir="auto">🔝Stats:</h2>
