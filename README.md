@@ -23,12 +23,6 @@
 <p align="left">
 <a href="http://www.linkedin.com/in/prince011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a>
 </p>
-
-<br>
-
->> 🌱 Under Revision 🍃
-- **ReactJS, Next.js, Node.js, Testing with Jest, Jasmine, Python 🐍 (Core Concepts), Data Structures & Algorithms, Agile (Scrum), Test automation, Bootstrap**
-  
 <div align="left">
   <h2 class="heading-element" dir="auto">Skills:</h2>
   
