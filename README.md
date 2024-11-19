@@ -49,6 +49,5 @@
 
 <h2 class="heading-element" dir="auto">🔝Stats:</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=gruvbox&langs_count=10"  alt="chprince11 most used languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox" alt="chprince11 GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=gruvbox&langs_count=10"  alt="chprince11 most used languages" /> <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox" alt="chprince11 GitHub Stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=gruvbox" alt="GitHub Streak"/>
