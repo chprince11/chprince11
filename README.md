@@ -51,4 +51,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html&layout=compact&theme=dracula&langs_count=10)](https://github.com/chprince11/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox" alt="chprince11 GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=dark" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=tokyonight" alt="GitHub Streak"/>
