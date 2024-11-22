@@ -47,7 +47,7 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="59"/></a>
 </div>
 
-<h2 class="heading-element" dir="auto">🔝Stats:</h2>
+<h2 class="heading-element" dir="auto">🔝Stats: </h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html,procfile,Makefile&layout=compact&theme=gruvbox&langs_count=6"  alt="chprince11 most used languages" /> <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox" alt="chprince11 GitHub Stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=gruvbox" alt="GitHub Streak"/>
