@@ -14,7 +14,7 @@
 
 ---
 
-- Had a great experience, I completed a fulfilling intership as a **Full Stack Developer (Open Source)** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web application and also fixed website bugs. ( Jan 2024 - April 2024 )
+- Had a great experience, I completed a fulfilling intership as a **Full Stack Developer (Open Source)** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web application and also fixed website bugs. ( Feb 2024 - May 2024 )
   
 - 📫 How to reach me **chprince@sheridancollege.ca**
   
