@@ -47,7 +47,20 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="59"/></a>
 </div>
 
-<h2 class="heading-element" dir="auto">🔝Stats: </h2>
+<h2 class="heading-element" dir="auto">📊 GitHub Stats and Visualizations: </h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html,procfile,Makefile&layout=compact&theme=gruvbox&langs_count=6"  alt="chprince11 most used languages" /> <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox" alt="chprince11 GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=gruvbox" alt="GitHub Streak"/>
+Here’s a glimpse into my GitHub activity and contributions:
+
+### 🌟 General Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox)
+
+### 🏆 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=gruvbox)
+
+### 👨‍💻 Most languages used
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html,procfile,Makefile&layout=compact&theme=gruvbox&langs_count=6)
+
+### 📊 Lines of Code
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-1.5%20million-blue)
+
+![Stars](https://img.shields.io/github/stars/chprince11?style=social)
