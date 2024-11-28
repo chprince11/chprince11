@@ -49,7 +49,7 @@
 
 <h2 class="heading-element" dir="auto">📊 GitHub Stats and Visualizations: </h2>
 
-Here’s a glimpse into my GitHub activity and contributions:
+Here’s a glimpse into my GitHub activity and contributions.
 
 ### 🌟 General Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox)
@@ -61,6 +61,6 @@ Here’s a glimpse into my GitHub activity and contributions:
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html,procfile,Makefile&layout=compact&theme=gruvbox&langs_count=6)
 
 ### 📊 Lines of Code
-![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code-1.5%20million-blue)
+![Lines of Code](https://img.shields.io/badge/Total%20Lines%20of%20Code%20(Approx.)-30k-blue)
 
 ![Stars](https://img.shields.io/github/stars/chprince11?style=social)
