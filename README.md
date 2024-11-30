@@ -1,4 +1,4 @@
-![logo](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg?w=1000&ssl=1)
+![logo](https://media.licdn.com/dms/image/v2/D4E16AQEv9FX_AOBFhQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728026821834?e=1738195200&v=beta&t=5o2MNt9h1blt1nXTFTKauhj7HfJwZA2tgt6taGO8D3M)
 
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
