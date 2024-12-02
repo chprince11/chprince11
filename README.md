@@ -47,7 +47,7 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="59"/></a>
 </div>
 
-<h2 class="heading-element" dir="auto">📊 GitHub Stats and Visualizations: </h2>
+<h2 class="heading-element" dir="auto">📊 GitHub Stats & Visualizations: </h2>
 
 Here’s a glimpse into my GitHub activity and contributions.
 
