@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D4E16AQEv9FX_AOBFhQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728026821834?e=1738195200&v=beta&t=5o2MNt9h1blt1nXTFTKauhj7HfJwZA2tgt6taGO8D3M)
+![logo](https://l2bp.net/sites/default/files/2024-05/it-solutions-banner.jpg)
 
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
