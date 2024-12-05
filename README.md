@@ -49,7 +49,7 @@
 
 <h2 class="heading-element" dir="auto">📊 GitHub Stats & Visualizations: </h2>
 
-Here’s a glimpse into my GitHub activity and contributions.😊
+Here’s a glimpse into my GitHub activity and contributions. 😊
 
 ### 🌟 General Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox)
