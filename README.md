@@ -1,5 +1,3 @@
-![logo](https://static.vecteezy.com/system/resources/previews/007/623/233/non_2x/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg)
-
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
 <br>
