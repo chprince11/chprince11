@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=35&amp;duration=1500&amp;pause=800&amp;color=1255FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=605&amp;lines=Hi, Prince+here!.+;Front-End+%2F+React+Developer.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=35&amp;duration=1500&amp;pause=800&amp;color=1255FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=605&amp;lines=Hi, Prince+here!.+;Software+Engineer.;Full-Stack+Developer.">
 </p>
 <br>
 
