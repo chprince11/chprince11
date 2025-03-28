@@ -50,7 +50,7 @@
 Here’s a glimpse into my GitHub activity and contributions. 😊
 
 ### 🌟 General Stats & 🏆 Streak Stats
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=gruvbox" alt="GitHub Streak" height="180px"/>
 </div>
