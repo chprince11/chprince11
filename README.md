@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=35&amp;duration=1500&amp;pause=800&amp;color=1255FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=605&amp;lines=Hi, Prince+here!.+;Software+Engineer.;Full-Stack+Developer.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=35&amp;duration=1500&amp;pause=800&amp;color=1255FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=605&amp;lines=Hi, Prince+here!.+;AI/ML (Beginner).;Software+Engineer.;Front-End+Developer.">
 </p>
 <br>
 
@@ -49,13 +49,16 @@
 
 Here’s a glimpse into my GitHub activity and contributions. 😊
 
-### 🌟 General Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox)
+### 🌟 General Stats & 🏆 Streak Stats
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chprince11&show_icons=true&theme=gruvbox" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=gruvbox" alt="GitHub Streak" height="180px"/>
+</div>
 
-### 🏆 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chprince11&theme=gruvbox)
+---
 
 ### 👨‍💻 Most languages used
+
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html,procfile,Makefile&layout=compact&theme=gruvbox&langs_count=6)
 
 ![Stars](https://img.shields.io/github/stars/chprince11?style=social) 
