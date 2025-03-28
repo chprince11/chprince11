@@ -13,14 +13,20 @@
 ---
 
 - Had a great experience, I completed a fulfilling intership as a **Full Stack Developer (Open Source)** at <a href="https://samskritabharati.in/" target="_blank"> @Samskrita Bharati </a>, where I gained hands-on experience in building versatile web application and also fixed website bugs. ( Feb 2024 - May 2024 )
-  
+
+---
+
 - 📫 How to reach me **chprince@sheridancollege.ca**
-  
-<h2 class="heading-element" dir="auto">Connect with me:</h2>
-  
+
+---
+
+<h2>Connect with me:</h2>
 <p align="left">
 <a href="http://www.linkedin.com/in/prince011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a>
 </p>
+
+---
+
 <div align="left">
   <h2 class="heading-element" dir="auto">Skills:</h2>
   
@@ -45,6 +51,8 @@
   <a href="https://www.businessnewsdaily.com/4987-what-is-agile-scrum-methodology.html" target="_blank" rel="noopener noreferrer"><img src="https://miro.medium.com/v2/resize:fit:400/0*KpzqUReoWU_DEwb5.png" alt="scrum image" width="60" height="59"/></a>
 </div>
 
+---
+
 <h2 class="heading-element" dir="auto">📊 GitHub Stats & Visualizations: </h2>
 
 Here’s a glimpse into my GitHub activity and contributions. 😊
@@ -61,4 +69,15 @@ Here’s a glimpse into my GitHub activity and contributions. 😊
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=chprince11&hide=html,procfile,Makefile&layout=compact&theme=gruvbox&langs_count=6)
 
+---
+
 ![Stars](https://img.shields.io/github/stars/chprince11?style=social) 
+
+---
+<div align="center">
+
+### **THANK YOU 😊**
+  
+</div>
+
+---
