@@ -1,9 +1,12 @@
 ![chprince snake gif](https://github.com/chprince11/chprince11/blob/main/snakeGraph.svg)
 
 <br>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=35&amp;duration=1500&amp;pause=800&amp;color=1255FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=605&amp;lines=Hi, Prince+here!.+;AI/ML (Beginner).;Software+Engineer.;Front-End+Developer.">
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=1500&pause=900&color=1255FF&center=true&vCenter=true&random=false&width=1200&lines=Hi,+Prince+here!;Software+Engineer;AI/ML+(Beginner);Full-Stack+Development;AWS+(EC2,+DynamoDB,+S3,+VPC,+API+Gateway,+CloudFormation))
+
+</div>
+
 <br>
 
 <img align="right" alt="coding" width="350px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -34,7 +37,7 @@
    <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>&nbsp;&nbsp;
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI3nGP9w-Ol7H0GYUnDUdCwqnoLwRzoe_cmA&s" alt="express" width="60" height="60"/></a>&nbsp;&nbsp;
    <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/ec2/?nc2=h_ql_prod_fs_ec2" target="_blank" rel="noopener noreferrer"><img src="https://www.cascadeo.com/wp-content/uploads/2022/11/KRgw2UkV_400x400.jpg" alt="AWS" width="50" height="50"/></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.paubox.com/hubfs/What%20is%20AWS.jpg" alt="AWS" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="51" height="50"/></a>&nbsp;&nbsp;
@@ -61,7 +64,7 @@ Here’s a glimpse into my GitHub activity and contributions. 😊
 ---
 <div align="center">
 
-### **THANK YOU 😊**
+### **I hope you have a lovely day! 😊**
   
 </div>
 
