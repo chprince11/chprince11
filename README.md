@@ -19,7 +19,7 @@
 
 <h2>Connect with me:</h2>
 <p align="left">
-<a href="http://www.linkedin.com/in/prince011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a> &nbsp;&nbsp;
+<a href="http://www.linkedin.com/in/princech011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn Profile Link" height="40" width="50" /></a> &nbsp;&nbsp;
 <a href="https://leetcode.com/u/prince11/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-svg-download-png-2944960.png?f=webp&w=512" alt="My Leetcode Profile Link" height="40" width="50" /></a>  
 </p>
 
